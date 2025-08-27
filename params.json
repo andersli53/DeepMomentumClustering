@@ -1,0 +1,21 @@
+{
+  "cut_off_date": "2025-06-01",
+  "data_start": "2024-04-01",
+  "strat_start": "2024-05-01",
+  "strat_end": "2025-04-30",
+  "latent_dim": 64,
+  "num_heads": 16,
+  "batch_size": 16,
+  "pretrain_epochs": 20,
+  "min_samples": 2,
+  "max_clusters": 10,
+  "gamma": {
+    "mse": 1.0,
+    "momentum_guided": 1.0,
+    "cluster": 20.0,
+    "momentum": 0.5,
+    "acceleration": 0.5
+  },
+  "alpha": 0.1,
+  "epochs": 100
+}
