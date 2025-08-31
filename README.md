@@ -1,4 +1,4 @@
-# DeepMomentumClustering
+# Deep Momentum Clustering
 MLDS - Deep Learning Research - Deep Momentum Clustering
 
 Running *main.ipynb* would execute notebooks to train and fit the model. Results will be stored in *run_logs.csv* and *Results* folder.
